@@ -2,7 +2,8 @@
 ### Projeto: Sistema Informatizado para Casa de Leilões
 
 **Descrição**:
-Este projeto visa criar um sistema informatizado para uma casa de leilões, permitindo a gestão eficiente de produtos e leilões. Com a informatização, a casa de leilões pode registrar produtos, realizar leilões, acompanhar o status de vendas e gerar relatórios.(Projeto referente à ativida 1 da UC11!)
+Este projeto visa criar um sistema informatizado para uma casa de leilões, permitindo a gestão eficiente de produtos e leilões.
+(Projeto referente à ativida 1 da UC11!)
 
 **Objetivos**:
 - Registrar e gerenciar produtos para leilão.

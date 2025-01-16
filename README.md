@@ -3,7 +3,7 @@
 
 **Descrição**:
 Este projeto visa criar um sistema informatizado para uma casa de leilões, permitindo a gestão eficiente de produtos e leilões.
-(Projeto referente à ativida 1 da UC11!)
+(Projeto referente à atividade 1 da UC11!)
 
 **Objetivos**:
 - Registrar e gerenciar produtos para leilão.
